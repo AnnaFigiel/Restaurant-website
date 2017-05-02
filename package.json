@@ -1,7 +1,7 @@
 {
   "name": "sass",
   "version": "0.1.0",
-  "description": "Witcher",
+  "description": "Restaurant website",
   "author": "Anna Figiel",
 
   "devDependencies": {
